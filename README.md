@@ -5,3 +5,5 @@
 - 🌱 Estudando Cybersecurity
 - 👯 Linguaguem preferencial Python
 - 🤔 From linux
+
+
